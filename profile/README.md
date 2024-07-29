@@ -1,3 +1,3 @@
 ## Uchen Machine Learning Framework
 
-A machine learning framework that fits anywhere.
+A machine learning framework that fits everywhere.
